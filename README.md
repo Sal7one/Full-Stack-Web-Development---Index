@@ -16,6 +16,8 @@
 ### Deployment - Circle Ci, AWS Elastic beanstalk, bash scripting 
 <a href="https://github.com/Sal7one/nd0067-c4-deployment-process-project-starter/edit/master/README.md">Repo</a>
 
+<hr>
+
 ## Full Stack Web Developer Nanodegree (Python, Flask, React, Ionic - nd0044 v2) - 2021
 <a href="https://graduation.udacity.com/confirm/QGXHULXU">Cert</a>
 
