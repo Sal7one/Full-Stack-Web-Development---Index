@@ -8,13 +8,13 @@
 <a href="https://github.com/Sal7one/fullstacknano2023FirstProject">Repo</a>
 
 ### Storefront - Project 2 - Express JS Api, PostgresSQL
-<a href="https://github.com/Sal7one/nanodegree_trivia_api">Repo</a>
+<a href="https://github.com/Sal7one/fullstack2022-2023nanoproject2">Repo</a>
 
 ### Store - Project 3 Fullstack - Angular JS
-<a href="https://github.com/Sal7one/nanodegree_coffee_shop">Repo</a>
+<a href="https://github.com/Sal7one/nd0067-c3">Repo</a>
 
 ### Deployment - Circle Ci, AWS Elastic beanstalk, bash scripting 
-<a href="https://github.com/Sal7one/nd0067-c4-deployment-process-project-starter/edit/master/README.md">Repo</a>
+<a href="https://github.com/Sal7one/nd0067-c4-deployment-process-project-starter">Repo</a>
 
 <hr>
 
